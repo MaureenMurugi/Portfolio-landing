@@ -4,7 +4,9 @@
 
 ## Description
 
->This is a detailed webpage of a personal portfolio which will later grow to be a personal website. It was developed on 3rd December 2021 version1.1. Copyright 2021 maureen.murugi@student.moringaschool.com
+>This is a detailed webpage of a personal portfolio which will later grow to be a personal website. It was developed on 3rd December 2021 version1.1. Copyright 2021.
+
+>Here is the live site: https://maureenmurugi.github.io/Portfolio-landing/
 
 ## About
 
